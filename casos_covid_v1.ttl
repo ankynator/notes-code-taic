@@ -1,0 +1,187 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bsbm: <http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dataFromRegion:LIMA METROPOLITANA
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "343940"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "307534"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "149032"^^xsd:Integer ;
+bsbm: TotalCasos(+) "800506"^^xsd:Integer ;
+bsbm: Fallecidos "26077"^^xsd:Integer ;
+dataFromRegion:CALLAO
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "43460"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "35855"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "14731"^^xsd:Integer ;
+bsbm: TotalCasos(+) "94046"^^xsd:Integer ;
+bsbm: Fallecidos "3388"^^xsd:Integer ;
+dataFromRegion:LA LIBERTAD
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "15542"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "36849"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "21353"^^xsd:Integer ;
+bsbm: TotalCasos(+) "73744"^^xsd:Integer ;
+bsbm: Fallecidos "4068"^^xsd:Integer ;
+dataFromRegion:AREQUIPA
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "17655"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "46751"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "14442"^^xsd:Integer ;
+bsbm: TotalCasos(+) "78848"^^xsd:Integer ;
+bsbm: Fallecidos "2740"^^xsd:Integer ;
+dataFromRegion:MOQUEGUA
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "3843"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "17822"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "2424"^^xsd:Integer ;
+bsbm: TotalCasos(+) "24089"^^xsd:Integer ;
+bsbm: Fallecidos "575"^^xsd:Integer ;
+dataFromRegion:CUSCO
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "15903"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "23760"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "20157"^^xsd:Integer ;
+bsbm: TotalCasos(+) "59820"^^xsd:Integer ;
+bsbm: Fallecidos "1361"^^xsd:Integer ;
+dataFromRegion:LAMBAYEQUE
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "11188"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "33411"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "9292"^^xsd:Integer ;
+bsbm: TotalCasos(+) "53891"^^xsd:Integer ;
+bsbm: Fallecidos "2692"^^xsd:Integer ;
+dataFromRegion:PIURA
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "5993"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "45329"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "24023"^^xsd:Integer ;
+bsbm: TotalCasos(+) "75345"^^xsd:Integer ;
+bsbm: Fallecidos "3239"^^xsd:Integer ;
+dataFromRegion:AMAZONAS
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "4402"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "18064"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "5364"^^xsd:Integer ;
+bsbm: TotalCasos(+) "27830"^^xsd:Integer ;
+bsbm: Fallecidos "502"^^xsd:Integer ;
+dataFromRegion:ICA
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "7589"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "31925"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "11608"^^xsd:Integer ;
+bsbm: TotalCasos(+) "51122"^^xsd:Integer ;
+bsbm: Fallecidos "2990"^^xsd:Integer ;
+dataFromRegion:JUNIN
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "11524"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "38713"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "18457"^^xsd:Integer ;
+bsbm: TotalCasos(+) "68694"^^xsd:Integer ;
+bsbm: Fallecidos "2454"^^xsd:Integer ;
+dataFromRegion:ANCASH
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "14535"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "27603"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "25354"^^xsd:Integer ;
+bsbm: TotalCasos(+) "67492"^^xsd:Integer ;
+bsbm: Fallecidos "2927"^^xsd:Integer ;
+dataFromRegion:CAJAMARCA
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "13186"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "27104"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "15988"^^xsd:Integer ;
+bsbm: TotalCasos(+) "56278"^^xsd:Integer ;
+bsbm: Fallecidos "1443"^^xsd:Integer ;
+dataFromRegion:HUANUCO
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "3554"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "20886"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "6818"^^xsd:Integer ;
+bsbm: TotalCasos(+) "31258"^^xsd:Integer ;
+bsbm: Fallecidos "1047"^^xsd:Integer ;
+dataFromRegion:APURIMAC
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "5008"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "8278"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "8699"^^xsd:Integer ;
+bsbm: TotalCasos(+) "21985"^^xsd:Integer ;
+bsbm: Fallecidos "580"^^xsd:Integer ;
+dataFromRegion:PUNO
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "4646"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "20604"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "5828"^^xsd:Integer ;
+bsbm: TotalCasos(+) "31078"^^xsd:Integer ;
+bsbm: Fallecidos "959"^^xsd:Integer ;
+dataFromRegion:TACNA
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "3927"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "15440"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "5120"^^xsd:Integer ;
+bsbm: TotalCasos(+) "24487"^^xsd:Integer ;
+bsbm: Fallecidos "805"^^xsd:Integer ;
+dataFromRegion:LORETO
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "7351"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "26717"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "5369"^^xsd:Integer ;
+bsbm: TotalCasos(+) "39437"^^xsd:Integer ;
+bsbm: Fallecidos "1411"^^xsd:Integer ;
+dataFromRegion:SAN MARTIN
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "7343"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "27327"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "8191"^^xsd:Integer ;
+bsbm: TotalCasos(+) "42861"^^xsd:Integer ;
+bsbm: Fallecidos "1286"^^xsd:Integer ;
+dataFromRegion:AYACUCHO
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "6332"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "14764"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "6905"^^xsd:Integer ;
+bsbm: TotalCasos(+) "28001"^^xsd:Integer ;
+bsbm: Fallecidos "817"^^xsd:Integer ;
+dataFromRegion:HUANCAVELICA
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "1934"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "8043"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "4279"^^xsd:Integer ;
+bsbm: TotalCasos(+) "14256"^^xsd:Integer ;
+bsbm: Fallecidos "422"^^xsd:Integer ;
+dataFromRegion:PASCO
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "1009"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "9063"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "3714"^^xsd:Integer ;
+bsbm: TotalCasos(+) "13786"^^xsd:Integer ;
+bsbm: Fallecidos "421"^^xsd:Integer ;
+dataFromRegion:TUMBES
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "3613"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "8887"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "3674"^^xsd:Integer ;
+bsbm: TotalCasos(+) "16174"^^xsd:Integer ;
+bsbm: Fallecidos "596"^^xsd:Integer ;
+dataFromRegion:UCAYALI
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "2325"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "21777"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "6760"^^xsd:Integer ;
+bsbm: TotalCasos(+) "30862"^^xsd:Integer ;
+bsbm: Fallecidos "977"^^xsd:Integer ;
+dataFromRegion:MADRE DE DIOS
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "1191"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "9686"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "2122"^^xsd:Integer ;
+bsbm: TotalCasos(+) "12999"^^xsd:Integer ;
+bsbm: Fallecidos "238"^^xsd:Integer ;
+dataFromRegion:LIMA REGIÓN
+rdf:type bsbm:Region ; 
+bsbm: PCR(+) "12388"^^xsd:Integer ;
+bsbm: PruebaRapida(+) "30525"^^xsd:Integer ;
+bsbm: PruebaAntigeno(+) "21813"^^xsd:Integer ;
+bsbm: TotalCasos(+) "64726"^^xsd:Integer ;
+bsbm: Fallecidos "3019"^^xsd:Integer ;
