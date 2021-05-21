@@ -2,6 +2,8 @@
 
 ## FROM CSV TO TLL FILE
 
+**view file ->** [casos_covid_v1.ttl](https://raw.githubusercontent.com/ankynator/notes-code-taic/master/casos_covid_v1.ttl)
+
 **Quick start**
 - Clone or download this repo
 - Prepare one csv file like this [casos_covid.csv](https://drive.google.com/file/d/1FUBQEzNPoeJLbYYYCeXUgNucvFU5j8gu/view?usp=sharing)
